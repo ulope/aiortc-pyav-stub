@@ -2,6 +2,7 @@ __version__ = '0.1.0'
 
 import sys
 
+from . import logging
 from ._stubs import AudioFrame, CodecContext, VideoFrame
 
 
